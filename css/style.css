@@ -118,6 +118,8 @@ li.circle-four.abs-center {
 	animation-delay: 0.3s;
 }
 
+
+
 @keyframes height-anim {
   0% { height: 55px;background: #fff;border-radius: 50%; }
   10%{ height: 55px; border-radius:60px; position: relative;top: -40px;}
